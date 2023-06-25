@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a **Learner** 
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** **Python**
 
 - 📫 How to reach me **bornabhowmik4@gmail.com**
 

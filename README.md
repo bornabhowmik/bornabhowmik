@@ -2,15 +2,10 @@
 <h3 align="center">A passionate Programmer from Bangladesh.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bornabhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="bornabhowmik" /> </p>
 
-- 🔭 I’m currently a **Learner** 
-
-- 🌱 I’m currently learning **C** and **Python**
-
-- 📫 How to reach me **bornabhowmik4@gmail.com**
-
 <p>
 <h4 align="left">Languages:</h4>
 <p align="left">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bornabhowmik&" alt="bornabhowmik"/></p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -21,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bornabhowmik&show_icons=true&locale=en&layout=compact" alt="bornabhowmik"/> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bornabhowmik&show_icons=true&locale=en" alt="bornabhowmik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bornabhowmik&" alt="bornabhowmik"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bornabhowmik&show_icons=true&locale=en" alt="bornabhowmik"/></p>

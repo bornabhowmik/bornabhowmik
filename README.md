@@ -1,3 +1,6 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bornabhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="bornabhowmik" /> </p>
+
 <h4 align="left">Languages:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -8,10 +11,6 @@
 <h4 align="left">Dev Tools:</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
-<br>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bornabhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="bornabhowmik" /> </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bornabhowmik&show_icons=true&locale=en&layout=compact" alt="bornabhowmik"/> </p>
 

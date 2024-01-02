@@ -11,9 +11,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bornabhowmik&show_icons=true&locale=en" alt="bornabhowmik" /></p>
 
+<!--
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bornabhowmik" alt="bornabhowmik" /></a> </p>
-
+-->
 
 <br>
 <h3 align="left">Let's connect with: </h3>

@@ -20,8 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bornabhowmik&show_icons=true&locale=en" alt="bornabhowmik" /></p>
 
-<!--
--->
+
 
 <br>
 <h3 align="left">Let's connect with: </h3>
@@ -32,5 +31,7 @@
 <a href="https://codeforces.com/profile/bornabhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bornabhowmik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bornabhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bornabhowmik" height="30" width="40" /></a>
 </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bornabhowmik" alt="bornabhowmik" /></a> </p>
+
+-->

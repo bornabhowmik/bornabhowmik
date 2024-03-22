@@ -32,7 +32,7 @@
 
 
 <br>
-<h3 align="left">Let's connect with: </h3>
+<h3 align="left">Let's connect: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/bornabhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bornabhowmik" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/bornabhowmik4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bornabhowmik" height="30" width="40" /></a> -->

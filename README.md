@@ -34,3 +34,5 @@ Simple CGPA Calculator console application with CPP
 <br><strong>Email : </strong> bornabhowmik5@gmail.com
 <br><br>
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bornabhowmik/)&#9;
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bornabhowmik&theme=dark&hide_border=true)](https://git.io/streak-stats)

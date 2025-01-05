@@ -4,7 +4,7 @@ I am <strong>Borna Rani Bhowmik</strong>. I'm currently Learning Data Science. <
 
 ### Top Projects
 
-###Here are some of the projects I have worked on:
+Here are some of the projects I have worked on:
 
 ### [Semester CGPA Generator](https://github.com/bornabhowmik/semester-cgpa-generator)
 Simple CGPA Calculator console application with CPP

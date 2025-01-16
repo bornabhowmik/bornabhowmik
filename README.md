@@ -2,7 +2,7 @@ Hi there 👋
 
 I am <strong>Borna Rani Bhowmik</strong>. I'm currently Learning Data Science. <strong></strong> 
 
-### Top Projects
+###Top Projects
 
 Here are some of the projects I have worked on:
 ### [LifeDrops](https://bcoderapp.github.io/LifeDrops/)

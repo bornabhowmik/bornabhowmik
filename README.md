@@ -16,13 +16,9 @@ Simple CGPA Calculator console application with CPP
 
 ### Skills I have
 - **Languages :** Python, C, C++, Java
-<!-- - Frameworks :  -->
 - **Database:** MySQL, SQL Server
-<!-- - Strong knowledge in g (WILL ADD AFTER PROJECT MAKING) -->
 - Experience with **Object Oriented Concepts**, Baisc **DSA** and **SQL**
-<!-- - Have good experience with Unit testing (WILL ADD AFTER PROJECT MAKING) -->
 - Good **Problem Solving** skill 
-<!-- - PowerBI -->
 - Proper knowledge of **Github**
 - Know about **Data Analysis**
 

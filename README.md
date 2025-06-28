@@ -1,4 +1,4 @@
-Hi there 👋
+###Hi there 👋
 
 I am <strong>Borna Rani Bhowmik</strong>. I'm currently learning Data Science, AI & Machine Learning and passionate about Research. <strong></strong> 
 

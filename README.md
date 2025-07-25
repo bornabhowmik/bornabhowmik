@@ -22,12 +22,9 @@ Simple CGPA Calculator console application with CPP
 - Proper knowledge of **Github**
 - Know about **Data Analysis**
 
-<!--
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bornabhowmik&layout=compact" alt="bornabhowmik-Top-Langs" /> </p>
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bornabhowmik&show_icons=true" alt="bornabhowmik-Github" />
--->
+<img src="https://github-readme-stats.vercel.app/api?username=bornabhowmik&show_icons=true" alt="bornabhowmik-Github" />
 
 ### Reach me at
 <br><strong>Email : </strong> bornabhowmik5@gmail.com

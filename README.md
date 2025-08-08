@@ -27,7 +27,7 @@ Simple CGPA Calculator console application with CPP
 <img src="https://github-readme-stats.vercel.app/api?username=bornabhowmik&show_icons=true" alt="bornabhowmik-Github" />
 
 ### Reach me at
-<br><strong>Email : </strong> bornabhowmik5@gmail.com || [LinkedIn Connect](https://www.linkedin.com/in/bornabhowmik/)
+bornabhowmik5@gmail.com || [LinkedIn Connect](https://www.linkedin.com/in/bornabhowmik/)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bornabhowmik&theme=dark&hide_border=true)](https://git.io/streak-stats)

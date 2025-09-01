@@ -8,9 +8,10 @@ Here are some of the projects I have worked on:
 #### 🔗 [MU-BUS](https://github.com/mdyasinahmed/MU-Bus)  
 A university bus schedule and route management system that helps students, faculty, and staff access real-time bus schedules and plan their commutes efficiently.  
 📌 Developed as part of the **[CSE300 - Project](https://github.com/bornabhowmik/CSE-Project_300)** academic course.  
-**My Contributions:**  
+My Contributions:
 - Designed and built **responsive frontend web pages**  
-- Worked with **HTML**, **CSS**, and **Bootstrap** for UI development  
+- Worked with **HTML**, **CSS**, and **Bootstrap** for UI development
+
 **Tech Stack:** HTML, CSS, Bootstrap, Flutter, PHP, MySQL
 
 ### [LifeDrops](https://bcoderapp.github.io/LifeDrops/)

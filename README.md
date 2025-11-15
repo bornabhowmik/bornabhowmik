@@ -33,7 +33,3 @@ Simple CGPA Calculator console application with CPP
 
 ### Reach me at
 bornabhowmik5@gmail.com || [LinkedIn Connect](https://www.linkedin.com/in/bornabhowmik/)
-
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bornabhowmik&theme=dark&hide_border=true)](https://git.io/streak-stats)
--->

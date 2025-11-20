@@ -32,4 +32,6 @@ Simple CGPA Calculator console application with CPP
 - Know about **Data Analysis**
 
 ### Reach me at
-bornabhowmik5@gmail.com || [LinkedIn Connect](https://www.linkedin.com/in/bornabhowmik/)
+bornabhowmik5@gmail.com 
+
+<!--|| [LinkedIn Connect](https://www.linkedin.com/in/bornabhowmik/)-->

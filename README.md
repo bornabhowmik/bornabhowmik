@@ -2,7 +2,7 @@
 I am <strong>Borna Rani Bhowmik</strong>. I'm currently learning Data Science, AI & Machine Learning and passionate about Research. <strong></strong> 
 
 ### Top Projects
-Here are some of the projects I have worked on:
+Here are some of the projects I have worked on-
 
 #### 🔗 [MU-BUS](https://github.com/mdyasinahmed/MU-Bus)  
 A university bus schedule and route management system that helps students, faculty, and staff access real-time bus schedules and plan their commutes efficiently. Developed as part of the **[CSE300 - Project](https://github.com/bornabhowmik/CSE-Project_300)** academic course.  
